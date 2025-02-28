@@ -1,0 +1,43 @@
+*
+body
+{
+background-color:#F2EFE7;
+ 
+}
+hr
+{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width:5%;
+   
+}
+h1,h3
+{
+    color:#48A6A7 ;   
+}
+h2
+{
+    color:#48A6A7 ;
+}
+.center
+{
+   height: auto;
+   border: 2px solid greenyellow;
+   border-radius: 8px;
+   max-width: 100%;
+   margin-bottom: 10px;
+   margin: 0%;
+   
+   
+}
+
+#heading
+{
+    background-color:#B3D8A8 ;
+}
+.dot:hover
+{
+color: rgb(48, 52, 52);
+}
